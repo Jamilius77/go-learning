@@ -1,6 +1,6 @@
 package main
 
-// Конвертер температуры (Цельсий ↔ Фаренгейт)
+// Генератор случайных чисел в заданном диапазоне
 func temperatureConvert(value float64, sign string) float64 {
 	var result float64
 
